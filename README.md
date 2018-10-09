@@ -11,7 +11,7 @@
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-openstack)
 
 ManageIQ plugin for the Openstack provider.
-
+2
 ## Development
 
 See the section on pluggable providers in the [ManageIQ Developer Setup](http://manageiq.org/docs/guides/developer_setup)
